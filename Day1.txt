@@ -1,8 +1,6 @@
 Hello day1
 
-<<<<<<< HEAD
 
 This is script edit form the Dev
-=======
+
 1 2 3 4 5 6 7 8 9
->>>>>>> 90de57aba1c8dcfbd0654bf267f57f43f4e95a2a
